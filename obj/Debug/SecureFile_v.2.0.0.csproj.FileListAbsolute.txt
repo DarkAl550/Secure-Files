@@ -1,0 +1,33 @@
+C:\Users\alxan\Desktop\DEV\APPS\SecureFile_v.2.0.0\bin\Debug\SecureFile_v.2.0.0.exe.config
+C:\Users\alxan\Desktop\DEV\APPS\SecureFile_v.2.0.0\bin\Debug\SecureFile_v.2.0.0.exe
+C:\Users\alxan\Desktop\DEV\APPS\SecureFile_v.2.0.0\bin\Debug\SecureFile_v.2.0.0.pdb
+C:\Users\alxan\Desktop\DEV\APPS\SecureFile_v.2.0.0\obj\Debug\SecureFile_v.2.0.0.csprojAssemblyReference.cache
+C:\Users\alxan\Desktop\DEV\APPS\SecureFile_v.2.0.0\obj\Debug\SecureFile_v._2._0._0.Form1.resources
+C:\Users\alxan\Desktop\DEV\APPS\SecureFile_v.2.0.0\obj\Debug\SecureFile_v._2._0._0.Properties.Resources.resources
+C:\Users\alxan\Desktop\DEV\APPS\SecureFile_v.2.0.0\obj\Debug\SecureFile_v.2.0.0.csproj.GenerateResource.cache
+C:\Users\alxan\Desktop\DEV\APPS\SecureFile_v.2.0.0\obj\Debug\SecureFile_v.2.0.0.exe
+C:\Users\alxan\Desktop\DEV\APPS\SecureFile_v.2.0.0\obj\Debug\SecureFile_v.2.0.0.pdb
+C:\Users\alxan\Desktop\DEV\APPS\SecureFile_v.2.0.0\obj\Debug\SecureFile_v._2._0._0.Main.resources
+C:\Users\alxan\OneDrive\Рабочий стол\DEV\APPS\SecureFile_v.2.0.0\bin\Debug\SecureFile_v.2.0.0.exe.config
+C:\Users\alxan\OneDrive\Рабочий стол\DEV\APPS\SecureFile_v.2.0.0\bin\Debug\SecureFile_v.2.0.0.exe
+C:\Users\alxan\OneDrive\Рабочий стол\DEV\APPS\SecureFile_v.2.0.0\bin\Debug\SecureFile_v.2.0.0.pdb
+C:\Users\alxan\OneDrive\Рабочий стол\DEV\APPS\SecureFile_v.2.0.0\obj\Debug\SecureFile_v.2.0.0.csprojAssemblyReference.cache
+C:\Users\alxan\OneDrive\Рабочий стол\DEV\APPS\SecureFile_v.2.0.0\obj\Debug\SecureFile_v._2._0._0.Form1.resources
+C:\Users\alxan\OneDrive\Рабочий стол\DEV\APPS\SecureFile_v.2.0.0\obj\Debug\SecureFile_v._2._0._0.Main.resources
+C:\Users\alxan\OneDrive\Рабочий стол\DEV\APPS\SecureFile_v.2.0.0\obj\Debug\SecureFile_v._2._0._0.Properties.Resources.resources
+C:\Users\alxan\OneDrive\Рабочий стол\DEV\APPS\SecureFile_v.2.0.0\obj\Debug\SecureFile_v.2.0.0.csproj.GenerateResource.cache
+C:\Users\alxan\OneDrive\Рабочий стол\DEV\APPS\SecureFile_v.2.0.0\obj\Debug\SecureFile_v.2.0.0.exe
+C:\Users\alxan\OneDrive\Рабочий стол\DEV\APPS\SecureFile_v.2.0.0\obj\Debug\SecureFile_v.2.0.0.pdb
+C:\Users\alxan\Desktop\DEV\APPS\SecureFile_v.2.0.0\obj\Debug\SecureFile_v._2._0._0.User.resources
+C:\Users\alxan\Desktop\SecureFile-Remake-master\obj\Debug\SecureFile_v.2.0.0.csprojAssemblyReference.cache
+C:\Users\alxan\Desktop\SecureFile-Remake-master\obj\Debug\SecureFile_v._2._0._0.Form1.resources
+C:\Users\alxan\Desktop\SecureFile-Remake-master\obj\Debug\SecureFile_v._2._0._0.Main.resources
+C:\Users\alxan\Desktop\SecureFile-Remake-master\obj\Debug\SecureFile_v._2._0._0.Properties.Resources.resources
+C:\Users\alxan\Desktop\SecureFile-Remake-master\obj\Debug\SecureFile_v._2._0._0.User.resources
+C:\Users\alxan\Desktop\SecureFile-Remake-master\obj\Debug\SecureFile_v.2.0.0.csproj.GenerateResource.cache
+C:\Users\alxan\Desktop\SecureFile-Remake-master\obj\Debug\SecureFile_v.2.0.0.exe
+C:\Users\alxan\Desktop\SecureFile-Remake-master\obj\Debug\SecureFile_v.2.0.0.pdb
+C:\Users\alxan\Desktop\SecureFile-Remake-master\bin\Debug\SecureFile_v.2.0.0.exe.config
+C:\Users\alxan\Desktop\SecureFile-Remake-master\bin\Debug\SecureFile_v.2.0.0.exe
+C:\Users\alxan\Desktop\SecureFile-Remake-master\bin\Debug\SecureFile_v.2.0.0.pdb
+C:\Users\alxan\Desktop\SecureFile-Remake-master\obj\Debug\SecureFile_v._2._0._0.Registration.resources
