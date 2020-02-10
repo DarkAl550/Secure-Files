@@ -30,7 +30,6 @@ namespace SecureFile_v._2._0._0
         public bool Start()
         {
             string[] strok = File.ReadAllLines("log.hlp") ;
-
             if (strok.Length == 0)
             {
                 return true;
@@ -40,8 +39,6 @@ namespace SecureFile_v._2._0._0
                 return false;
             }
         }
-        
-        
         #endregion
     }
 }
