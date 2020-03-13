@@ -69,7 +69,7 @@
             this.btnShow.Name = "btnShow";
             this.btnShow.Size = new System.Drawing.Size(75, 40);
             this.btnShow.TabIndex = 6;
-            this.btnShow.Text = "👁‍🗨";
+            this.btnShow.Text = "👁";
             this.btnShow.UseVisualStyleBackColor = false;
             this.btnShow.Click += new System.EventHandler(this.btnShow_Click);
             // 

@@ -89,6 +89,7 @@ namespace SecureFile_v._2._0._0
                 btnCheckKey.Visible = true;
                 pictureBox1.Visible = true;
 
+                button2.Visible = false;
                 btnLog.Visible = false;
                 lbLogin.Visible = false;
                 tbLogin.Visible = false;
